@@ -1,0 +1,27 @@
+.burger-bar {
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
+
+.navActive {
+    display: none;
+}
+
+.navigation {
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    background-color: #536171;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-list li a {
+    color: aliceblue;
+}
